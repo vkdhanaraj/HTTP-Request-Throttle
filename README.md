@@ -11,3 +11,8 @@ There can be two types of rate limiting - Server side and client side. Server si
 
 This project aims to provide developers a library using which he/she can rate limit the number of API calls made by the application. He can control the rate at which the requests are processed. 
 
+
+# Data Flow Diagram
+
+![alt text](https://github.com/vkdhanaraj/HTTP-Request-Throttle/master/HTTP-Request-Throttle/diagram.png)
+
