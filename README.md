@@ -14,5 +14,5 @@ This project aims to provide developers a library using which he/she can rate li
 
 # Data Flow Diagram
 
-![alt text](https://github.com/vkdhanaraj/HTTP-Request-Throttle/master/HTTP-Request-Throttle/diagram.png)
+![alt text](https://raw.githubusercontent.com/vkdhanaraj/HTTP-Request-Throttle/master/diagram.png)
 
